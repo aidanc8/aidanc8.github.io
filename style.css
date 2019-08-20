@@ -1,0 +1,26 @@
+<style type="text/css">
+    .thick-black-border {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: right;
+  }
+    
+    h2 {
+        border-color: black;
+        border-width: 3px;
+        border-bottom-style: solid;
+    }  
+    body {
+        background-color: lightblue;
+    border: 10px solid blue;
+        padding: 5%;
+        margin: 5%;
+}
+   
+    
+    h2 {
+        color: darkblue;
+        font-family:sans-serif;
+    }
+</style>
