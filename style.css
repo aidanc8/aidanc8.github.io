@@ -4,6 +4,9 @@
         padding: 5%;
         margin: 5%;
 }
+#footer {
+ margin: 5%;
+}
 address {
     text-align:center;
     color:darkblue;
