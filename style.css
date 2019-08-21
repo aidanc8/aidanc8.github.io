@@ -3,9 +3,8 @@
     border: 10px solid blue;
         padding: 5%;
         margin: 5%;
-}
-footer {
-    text-align:center;
+  p {
+   text-align:center;
 }
 address {
     text-align:center;
