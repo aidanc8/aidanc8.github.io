@@ -26,4 +26,7 @@
         color: darkblue;
         font-family:sans-serif;
     }
-
+address {
+    text-align:center;
+    color:darkblue;
+}
