@@ -5,7 +5,10 @@
     border-width: 5px;
     text-align: right;
   }
-    
+    h1 {
+        text-align:center; 
+        color:darkblue;
+}
     h2 {
         border-color: black;
         border-width: 3px;
